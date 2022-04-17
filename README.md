@@ -1,2 +1,3 @@
 # read-me
 First post to git hub...
+Learning how to create a personal website hosted here.
